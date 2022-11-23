@@ -26,8 +26,7 @@ body {
 }
 .container .row .btn {
   font-size: 15px;
-  /* width: 100px;
-  height: 30px; */
+
   padding: 10px;
   transition: 0.3s;
   background: #051937;
